@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Aug 27 13:19:43 2015
 
-@author: aditya
-"""
 
 
 # Import all the important packages which we must use with this program
